@@ -49,3 +49,12 @@ p.row {
 .virtual {
   font-family: "Lucida Console", Monaco, monospace
 }
+
+body {
+  background-color: #98FB98;
+}
+
+.jumbotron {
+  background-image: url("http://www.photohowto.info/files/images/howto/2008/02/sky/sky-1.jpg");
+  color: #FFFFFF
+}
