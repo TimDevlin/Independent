@@ -1,7 +1,11 @@
 img {
   width: 300px;
   height: 200px;
+}
 
+h1 {
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace
 }
 
 img.resize {
@@ -16,4 +20,29 @@ img.resize {
 
 .text {
   font-size: 14px;
+}
+
+.container {
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-top: 50px;
+}
+
+.container2 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.french {
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace
+}
+
+p.row {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.rightbar {
+  float: right;
 }
