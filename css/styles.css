@@ -46,3 +46,6 @@ p.row {
 .rightbar {
   float: right;
 }
+.virtual {
+  font-family: "Lucida Console", Monaco, monospace
+}
